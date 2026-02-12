@@ -1,5 +1,5 @@
 body {
-    background-Image: linear-gradient(to right, #ff7e5f, #feb47b);
+    background-image: linear-gradient(to right, #ff7e5f, #feb47b);
     height: 100vh;
 }
 
@@ -30,7 +30,7 @@ body {
     justify-content: center;
     gap: 1em;
     align-items: center;
-    margin-top: 3am auto 1em;
+    margin: 3em auto 1em;
     max-width: 40em;
 }
 
